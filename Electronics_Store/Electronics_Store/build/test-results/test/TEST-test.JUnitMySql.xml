@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.JUnitMySql" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-01-18T11:30:47" hostname="DESKTOP-70NECI4" time="0.386">
+  <properties/>
+  <testcase name="updateStockById test" classname="test.JUnitMySql" time="0.266"/>
+  <testcase name="findAll test" classname="test.JUnitMySql" time="0.02"/>
+  <testcase name="findByTitle test" classname="test.JUnitMySql" time="0.015"/>
+  <testcase name="findByName test" classname="test.JUnitMySql" time="0.012"/>
+  <testcase name="save Test" classname="test.JUnitMySql" time="0.026"/>
+  <testcase name="findTitleById test" classname="test.JUnitMySql" time="0.012"/>
+  <testcase name="findbyId Test" classname="test.JUnitMySql" time="0.02"/>
+  <testcase name="getCompanyById test" classname="test.JUnitMySql" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
